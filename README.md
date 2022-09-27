@@ -4,6 +4,7 @@
 
 **Formation**:  
 Le Wagon - Lyon (january 2022) [Le Wagon](http://www.lewagon.com)
+M2iFormation - Lyon (juillet 2022)
 
 **Where to find me**:  
 * [Github](https://github.com/Charlotte6944)
