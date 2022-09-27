@@ -4,7 +4,7 @@
 
 **Formation**:  
 Le Wagon - Lyon (january 2022) [Le Wagon](http://www.lewagon.com)
-M2iFormation - Lyon (juillet 2022)
+<br> M2iFormation - Lyon (juillet 2022)
 
 **Where to find me**:  
 * [Github](https://github.com/Charlotte6944)
@@ -13,6 +13,7 @@ M2iFormation - Lyon (juillet 2022)
 **Languages and tools**:  
 
 <p align="center">
+
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
